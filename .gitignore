@@ -1,0 +1,26 @@
+# STM32CubeMX generated files
+Debug/
+Release/
+.mxproject
+*.ioc.bak
+*.old
+*.log
+*.jlink
+.cproject
+.project
+.settings/
+*.launch
+RemoteSystemsTempFiles/
+
+# Build artifacts
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
